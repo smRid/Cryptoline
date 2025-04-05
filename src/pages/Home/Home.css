@@ -103,3 +103,21 @@
 
     }
 }
+
+@media (max-width: 400px){
+    .table-layout{
+        font-size: 14px;
+    }
+    .hero form input{
+        width: 80px;
+    }
+}
+
+@media (max-width: 350px){
+    .table-layout{
+        font-size: 13px;
+    }
+    .hero form input{
+        width: 60px;
+    }
+}
