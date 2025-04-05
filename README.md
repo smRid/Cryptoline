@@ -18,7 +18,7 @@ The application leverages modern web development practices to deliver a fast, re
 </p>
 
 ## 🎯 Live Demo  
-🔗 **[Check out the live demo here](https://crypto-line-jet.vercel.app/coin/bitcoin)**  
+🔗 **[Check out the live demo here](https://crypto-line-jet.vercel.app/)**  
 
 ## <a name="tools">🛠️ Tools</a>
 
