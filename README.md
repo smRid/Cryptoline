@@ -33,8 +33,8 @@ The application leverages modern web development practices to deliver a fast, re
 - 📈 Interactive Charts: Visualize historical price trends with dynamic and responsive chart components.
 - 🔍 Search & Filter: Easily find and track specific coins using a powerful search and filtering system.
 - 🌐 Global Market Overview: View market cap, 24h volume, price changes, and rankings across multiple currencies.
-- 📱  Responsive Design:** Fully optimized for desktop and mobile devices.
-- 🚀 Optimized Performance:** Fast loading with efficient state management.
+- 📱  Responsive Design: Fully optimized for desktop and mobile devices.
+- 🚀 Optimized Performance: Fast loading with efficient state management.
 
 
 ## <a name="getting-started">🚀 Getting Started</a>
