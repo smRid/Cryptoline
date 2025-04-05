@@ -91,25 +91,6 @@
         display: none;
     }
 }
-@media (max-width: 600px){
-    .hero{
-        margin: 50px auto;
-    }
-    .hero h1{
-        font-size: 30px;
-    }
-    .hero p{
-        width: 90%;
-    }
-    .hero form{
-        width: 100%;
-        font-size: 18px;
-    }
-    .hero input{
-        width: 100%;
-    }
-}
-
 @media (max-width: 500px){
     .table-layout div img{
         width: 25px;
